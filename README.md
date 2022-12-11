@@ -1,3 +1,5 @@
+- Jika ingin dec silahkan wa saya... 
+- Jagalah sopan santun anda 
 - prem.txt
 - rm -rf prem.txt
 - git clone https://github.com/arvel-noob/prem.txt
