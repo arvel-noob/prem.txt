@@ -4,6 +4,8 @@
 - rm -rf prem.txt
 - git clone https://github.com/arvel-noob/prem.txt
 - cd prem.txt
+- ls
+- git pull
 - python premfb.py
 
 * [<img alt="arvel-noob Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /><b>Facebook</b>](https://www.facebook.com/profile.php?id=100079899961820)<br>
